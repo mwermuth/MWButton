@@ -9,9 +9,7 @@
 #import <UIKit/UIKit.h>
 
 @interface MWButton : UIButton{
-    @private
-        NSMutableDictionary *backgroundStates;
-    @public
+    NSMutableDictionary *backgroundStates;
 }
 
 - (void) setBackgroundColor:(UIColor *) _backgroundColor forState:(UIControlState) _state;
