@@ -10,8 +10,6 @@ Just create a button as always.
 
 and then set the Colors for the corresponding states:
 
-```[button setBackgroundColor:[UIColor blackColor] forState:UIControlStateNormal];
-
-[button setBackgroundColor:[UIColor blackColor] forState:UIControlStateSelected];
-
-[button setBackgroundColor:[UIColor blackColor] forState:UIControlStateHighlighted];```
+    [button setBackgroundColor:[UIColor blackColor] forState:UIControlStateNormal];
+    [button setBackgroundColor:[UIColor whiteColor] forState:UIControlStateSelected];
+    [button setBackgroundColor:[UIColor yellowColor] forState:UIControlStateHighlighted];
