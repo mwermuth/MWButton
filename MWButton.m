@@ -1,9 +1,9 @@
 //
 //  MWButton.m
-//  nextr2
+//  mwermuth.com
 //
 //  Created by Marcus on 18.07.13.
-//  Copyright (c) 2013 nextr.info. All rights reserved.
+//  Copyright (c) 2013 mwermuth.com. All rights reserved.
 //
 
 #import "MWButton.h"
